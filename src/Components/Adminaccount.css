@@ -1,0 +1,15 @@
+.heading{
+    text-align: center;
+    color:white;
+    background-color: #0d6efd;
+}
+
+.bgfooter{
+    background-color: #0d6efd;
+    color:white;
+    margin-top: 35px;
+    text-align: justify;
+    padding: 10px;
+    padding-bottom: 1px;
+    margin-bottom: 100px;
+}
